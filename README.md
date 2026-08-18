@@ -1,30 +1,55 @@
-# 👋 Snehith Kumar
+<!-- ===================== HEADER / BANNER ===================== -->
 
-AI Engineering • Generative AI • Agentic AI • Full-Stack • Computer Vision
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Snehith%20Kumar&fontSize=65&fontColor=ffffff&animation=twinkling&desc=AI%20Engineering%20%7C%20GenAI%20%7C%20Agentic%20AI%20%7C%20Full-Stack%20%7C%20Computer%20Vision&descAlignY=70" width="100%" />
+</div>
 
-[GitHub](https://github.com/snehithkumar18) • [LinkedIn](https://www.linkedin.com/in/snehith-kumar-4266071b8/) • snehithkumarbarkam@gmail.com
+<!-- ===================== SOCIALS ===================== -->
+
+<div align="center">
+
+<a href="https://github.com/snehithkumar18">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/snehith-kumar-4266071b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:snehithkumarbarkam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%F0%9F%A4%96;Generative+AI+Developer+%F0%9F%A7%A0;Agentic+AI+Builder+%F0%9F%94%97;Full-Stack+Software+Engineer+%F0%9F%9A%80;Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%F0%9F%94%A7;Building+AI-Powered+Products+%F0%9F%92%A1" />
+
+</div>
 
 ---
 
-## About Me
+# 👋 About Me
 
-I'm **Snehith Kumar**, a Computer Science Engineer focused on building practical systems at the intersection of **Artificial Intelligence and Software Engineering**.
+I'm **Snehith Kumar**, a Computer Science Engineer interested in building practical software at the intersection of **Artificial Intelligence and Software Engineering**.
 
-I enjoy taking a problem from an idea to a working product — understanding the workflow, designing the architecture, building APIs and AI pipelines, integrating models and tools, testing failure cases, and deploying the system.
+I enjoy taking an idea from a problem statement to a working product — designing the architecture, building APIs, integrating AI models, connecting databases, testing the system, and deploying the final application.
 
-My strongest areas are **Python, Generative AI, Agentic AI, LLM applications, RAG, Computer Vision, backend engineering, and full-stack development**.
+My strongest areas are **Python, AI/ML, Generative AI, Agentic AI, Computer Vision, backend development, and full-stack engineering**.
 
-- 🤖 LLMs, Agentic AI, RAG and Multimodal AI
-- 🧠 LangGraph, LangChain, Gemini, LLaMA, Groq, Hugging Face and PyTorch
-- 🔧 Python, FastAPI, Flask, Node.js and Express
-- 🌐 React, TypeScript and JavaScript
-- 🗄️ PostgreSQL, MySQL, Supabase, Redis and ChromaDB
-- 🧪 Pytest, Vitest, automated validation and CI/CD
-- 🐳 Docker, Git, GitHub Actions and Linux
+- 🤖 Building applications with **Generative AI, LLMs, AI Agents and Computer Vision**
+- 🧠 Working with **PyTorch, YOLOv8, OpenCV, Gemini, LLaMA, Groq, Hugging Face and RAG**
+- 🔗 Building stateful AI workflows and multi-agent systems
+- ⚙️ Building backend systems using **Python, FastAPI, Flask, Node.js and Express**
+- 🌐 Developing full-stack applications with **React, TypeScript and JavaScript**
+- 🗄️ Working with **PostgreSQL, MySQL, Supabase, Redis and SQL**
+- 🐳 Using **Docker, Git, GitHub and GitHub Actions**
+- 🧪 Writing automated tests and building validation workflows
+- 🔍 Interested in **AI engineering, intelligent automation, developer tools and production AI systems**
+- 💡 I enjoy learning unfamiliar technologies by building real projects with them
 
 ---
 
-## 🚀 What I Build
+# 🚀 What I Build
 
 I don't focus on adding AI to an application just because an LLM is available.
 
@@ -50,325 +75,320 @@ Deployment
 Production Product
 ```
 
-My projects cover:
-
-- Agentic AI
-- Generative AI
-- LLM applications
-- Retrieval-Augmented Generation
-- Multi-agent systems
-- Computer Vision
-- Multimodal AI
-- AI automation
-- Backend engineering
-- Full-stack applications
-- Real-time systems
-- Data pipelines
-- Developer tools
+My projects span **AI applications, agentic workflows, computer vision, full-stack products, backend systems, developer tools, automation and intelligent data pipelines**.
 
 ---
 
 # 🧠 Featured Projects
 
-## 🤖 SnehithGPT — Stateful Agentic AI Assistant
+## 🎨 ThumbAI — AI-Powered Thumbnail Editing Platform
 
-A production-oriented personal AI assistant built around **stateful agent orchestration**, tool calling, memory and retrieval.
+An AI-powered design suite for creators that combines computer vision, multimodal AI, image processing and an interactive WYSIWYG editor.
 
 ### What I built
 
-- Stateful workflows using **LangGraph**
-- Persistent conversation state and memory
-- Tool calling and conditional agent routing
-- Retrieval-Augmented Generation
-- Document ingestion and semantic retrieval
-- SSE response streaming
-- PostgreSQL persistence
-- ChromaDB vector retrieval
-- Gemini-powered reasoning
-- Dockerized backend architecture
-- Thread-isolated conversation state
+- 🖼️ AI-assisted thumbnail generation and editing
+- 👁️ YOLOv8 and Meta SAM for object/person segmentation
+- 🔎 EasyOCR for text detection
+- 🎭 InsightFace and Inswapper for face processing
+- ✨ GFPGAN for facial restoration
+- 🎨 OpenCV inpainting and LAB color-space compositing
+- 🧠 Gemini multimodal visual analysis
+- 🦙 LLaMA-based script and title analysis
+- ⚡ Fastify + BullMQ + Redis asynchronous ML processing
+- 🎛️ React-Konva interactive canvas editor
+- 🗄️ Supabase/PostgreSQL application architecture
+- 🐳 Dockerized Python ML services
 
 ### Architecture
 
 ```text
-User
- ↓
-FastAPI
- ↓
-LangGraph Agent
- ↓
- ├── Memory
- ├── RAG
- ├── Web Search
- ├── Calculator
- ├── Document Retrieval
- └── Other Tools
- ↓
-LLM
- ↓
-SSE Streaming
- ↓
-User
+Upload Image
+     ↓
+Hash / Detection Cache
+     ↓
+YOLOv8 + SAM + EasyOCR
+     ↓
+Layer Extraction
+     ↓
+AI Editing / Inpainting
+     ↓
+InsightFace / GFPGAN
+     ↓
+Gemini Multimodal Analysis
+     ↓
+Optimized Thumbnail
 ```
 
-**Tech:** `Python` `FastAPI` `LangGraph` `LangChain` `Gemini` `RAG` `ChromaDB` `PostgreSQL` `SSE` `Docker`
+### Tech Stack
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `React-Konva` `FastAPI` `Python` `PyTorch` `OpenCV` `YOLOv8` `SAM` `EasyOCR` `InsightFace` `GFPGAN` `Gemini` `LLaMA` `Redis` `BullMQ` `PostgreSQL` `Supabase` `Docker`
+
+🔗 **Live:** https://thumb-ly.vercel.app/
 
 ---
 
-## ✈️ TripMate AI — Multi-Agent Travel Planner
+## 🍽️ QRAVE — Smart Contactless Ordering & POS System
 
-An agentic travel planning system coordinating specialized AI agents to create complete travel plans.
-
-### What I built
-
-- Multi-agent architecture using **LangGraph**
-- Flight, hotel and itinerary agents
-- Final response synthesis agent
-- Shared agent state
-- External API and tool integration
-- PostgreSQL checkpoints
-- Memory and fallback mechanisms
-- Structured outputs
-- Graceful failure handling
-
-```text
-User Request
-     ↓
-Orchestrator
-     ↓
- ┌──────────────┬──────────────┐
- ↓              ↓              ↓
-Flight Agent  Hotel Agent  Itinerary Agent
- └──────────────┬──────────────┘
-                ↓
-        Final Response Agent
-                ↓
-           Travel Plan
-```
-
-**Tech:** `Python` `LangGraph` `LangChain` `FastAPI` `Groq` `LLaMA 3.3` `PostgreSQL` `Docker`
-
----
-
-## 🔎 EverydayJobs — Autonomous AI Job Intelligence Engine
-
-An autonomous job intelligence and screening system that filters thousands of live jobs and identifies roles that genuinely match a candidate's skills.
-
-**Repository:** https://github.com/snehithkumar18/Everydayjobs
+A production-oriented restaurant ordering platform connecting customers, restaurant staff and kitchen operations through a real-time ordering workflow.
 
 ### What I built
 
-- Greenhouse, Lever and Ashby integrations
-- Parallel job extraction
-- Deterministic filtering
-- LLM semantic screening
-- Automated application-kit generation
-- Email delivery
-- SHA-256 deduplication
-- Retry and rate-limit handling
-- Persistent state
-- Automated regression testing
-- GitHub Actions deployment
-
-### Pipeline
-
-```text
-9,000+ Jobs
-     ↓
-Deterministic Filtering
-     ↓
-Location / Seniority Filtering
-     ↓
-SHA-256 Deduplication
-     ↓
-LLM Batch Screening
-     ↓
-High-Fit Jobs
-     ↓
-Resume + Cover Note + Interview Prep
-     ↓
-Email Digest
-```
+- 📱 QR-based digital restaurant menus
+- 🛒 Customer ordering and cart workflows
+- 👨‍🍳 Live kitchen order queue
+- 📺 Digital self-pickup display board
+- 💳 Razorpay Route split-payment integration
+- 🔐 JWT authentication
+- 🛡️ HMAC-SHA256 payment verification
+- ⚡ Supabase WebSocket real-time synchronization
+- 🚦 API rate limiting
+- 🔄 `p-queue` concurrency control
+- 🗄️ PostgreSQL relational architecture
+- 🔌 Node.js/Express REST APIs
 
 ### Engineering Highlights
 
-- Designed a two-stage LLM architecture to reduce unnecessary model usage.
-- Combined deterministic Python filtering with semantic LLM evaluation.
-- Implemented exponential backoff for API rate limits.
-- Added partial JSON recovery for interrupted LLM responses.
-- Built persistent state using `seen.json`.
-- Created **70 automated tests** covering parsers, providers, retries and edge cases.
-- Automated execution using GitHub Actions.
+- Designed a decoupled React + Node.js/Express + Supabase architecture.
+- Implemented multi-merchant payment routing through Razorpay Route.
+- Built webhook signature verification using HMAC-SHA256.
+- Replaced polling with Supabase real-time channels for live order updates.
+- Added rate limiting and outbound concurrency control for payment APIs.
+- Designed relational schemas for restaurants, menus, orders, order items and transactions.
 
-**Tech:** `Python` `Gemini` `Claude` `Groq` `LLaMA` `REST APIs` `Pytest` `GitHub Actions` `Jinja2` `SMTP` `JSON` `SHA-256`
+### Tech Stack
 
----
+`React 19` `Vite` `Tailwind CSS` `React Router` `Node.js` `Express.js` `PostgreSQL` `Supabase` `WebSockets` `Razorpay` `JWT` `Helmet` `p-queue`
 
-## 🎨 ThumbAI — AI-Powered Thumbnail Intelligence & Editing Platform
-
-An AI-powered design platform combining **computer vision, multimodal AI, image processing and full-stack engineering**.
-
-### What I built
-
-- AI-assisted thumbnail generation
-- YOLOv8 object/person segmentation
-- Meta Segment Anything Model
-- EasyOCR text detection
-- InsightFace face processing
-- GFPGAN facial restoration
-- OpenCV image processing
-- Gemini multimodal visual analysis
-- LLaMA-based script analysis
-- BullMQ + Redis asynchronous processing
-- React-Konva WYSIWYG editor
-- Dockerized ML services
-- Supabase and PostgreSQL backend
-
-### Pipeline
-
-```text
-Uploaded Thumbnail
-        ↓
-Image Hash / Cache
-        ↓
-YOLOv8 + SAM
-        ↓
-Object / Person / Text Detection
-        ↓
-EasyOCR
-        ↓
-Layer Extraction
-        ↓
-AI Editing / Inpainting
-        ↓
-InsightFace / GFPGAN
-        ↓
-Gemini Multimodal Analysis
-        ↓
-Thumbnail Optimization
-```
-
-**Tech:** `React` `TypeScript` `FastAPI` `Python` `PyTorch` `YOLOv8` `SAM` `OpenCV` `EasyOCR` `InsightFace` `GFPGAN` `Gemini` `LLaMA` `Redis` `BullMQ` `PostgreSQL` `Supabase` `Docker`
-
-**Live:** https://thumb-ly.vercel.app/
+🔗 **Live:** https://qravee.me/
 
 ---
 
-## 🌱 AI Crop Doctor — Multimodal Agricultural AI
+## 🌱 AI Crop Doctor — Multimodal Agricultural Advisory Platform
 
-A multimodal agricultural AI platform that diagnoses crop diseases from images and generates localized treatment recommendations.
+A multimodal AI platform that diagnoses crop diseases from images, combines environmental context, and generates localized treatment recommendations.
 
 ### What I built
 
-- Crop disease classification
-- YOLOv8 plant detection
-- PyTorch disease classification
-- OpenCV image preprocessing
-- LLaMA reasoning through Groq
-- Real-time weather integration
-- Multilingual recommendations
-- Text-to-speech assistance
-- Browser geolocation
-- Web Speech API
-- Multi-level fallback handling
+- 🌿 Crop disease classification across 38 disease classes
+- 👁️ YOLOv8 plant/object detection and OOD filtering
+- 🧠 MobileNetV2 and ResNet50 PyTorch classifiers
+- 🔬 OpenCV + PIL image preprocessing
+- 🤖 LLaMA reasoning through Groq
+- 🌦️ OpenWeatherMap real-time weather context
+- 🌍 Multilingual recommendations using translation
+- 🔊 Google TTS audio recommendations
+- 📍 Browser geolocation
+- 🗣️ Web Speech API integration
+- 🛡️ Multi-level fallback handling
+
+### AI Workflow
 
 ```text
-Leaf Image
-    ↓
-YOLOv8 Plant Detection
-    ↓
-Image Preprocessing
-    ↓
+Leaf Image + User Context
+          ↓
+YOLOv8 Gatekeeper
+          ↓
+OpenCV / PIL Preprocessing
+          ↓
 PyTorch Classifier
-    ↓
+          ↓
 Disease Prediction
-    ↓
+          ↓
 Weather + Soil Context
-    ↓
+          ↓
 LLaMA Reasoning
-    ↓
-Treatment Recommendation
-    ↓
-Translation
-    ↓
-Text-to-Speech
+          ↓
+Treatment + Prevention Plan
+          ↓
+Translation + Text-to-Speech
 ```
 
-**ML:** `PyTorch` `MobileNetV2` `ResNet50` `YOLOv8` `OpenCV` `Pillow` `Torchvision`
+### Tech Stack
 
-**GenAI:** `Groq` `LLaMA 3.2 Vision` `LLaMA 3.3 70B` `Prompt Engineering`
+`Python` `PyTorch` `MobileNetV2` `ResNet50` `YOLOv8` `OpenCV` `Pillow` `Torchvision` `Flask` `Groq` `LLaMA` `OpenWeatherMap` `Pandas` `NumPy` `gTTS` `FFmpeg`
 
-**Tech:** `Python` `Flask` `Pandas` `NumPy` `gTTS` `FFmpeg`
-
----
-
-## 🍽️ QRAVE — Smart Contactless Ordering & POS Platform
-
-A production-oriented restaurant ordering platform connecting customers, restaurant staff and kitchen operations through a real-time ordering system.
-
-### What I built
-
-- QR-based digital menus
-- Customer ordering workflows
-- Restaurant and kitchen management
-- Digital order display
-- Razorpay payment integration
-- JWT authentication
-- HMAC-SHA256 webhook verification
-- Supabase real-time synchronization
-- API rate limiting
-- `p-queue` concurrency control
-- PostgreSQL relational architecture
-- REST APIs
-
-```text
-Customer
-   ↓
-React Application
-   ↓
-Node.js / Express API
-   ↓
-PostgreSQL / Supabase
-   ↓
- ┌───────────────┬────────────────┐
- ↓               ↓                ↓
-Payments      Kitchen          Display
-Razorpay      Dashboard        Board
- └───────────────┴────────────────┘
-           Real-Time Sync
-```
-
-**Tech:** `React` `JavaScript` `Node.js` `Express.js` `PostgreSQL` `Supabase` `REST APIs` `Razorpay` `JWT` `Tailwind CSS` `WebSockets`
-
-**Live:** https://qravee.me/
+🔗 **GitHub:** https://github.com/snehithkumar18
 
 ---
 
 ## 🛕 BhaktiPatham — AI Telugu Temple Assistant
 
-An AI-powered multilingual platform designed to provide information and assistance related to Telugu temples.
+An AI-driven multilingual web application designed to make information about Telugu temples easier to discover through conversational AI.
 
 ### What I built
 
-- AI chatbot
-- Multilingual support
-- Temple information database
-- Intelligent information retrieval
-- LLM integration
-- Structured temple knowledge
-- Conversational interface
+- 🤖 AI chatbot for temple-related questions
+- 🛕 Structured database covering 20+ Telugu temples
+- 🌐 Multilingual conversational support
+- 🔎 Intelligent information retrieval
+- 📚 RAG-based knowledge workflows
+- 🧠 GPT-4 and Gemini integration
+- 💬 Conversational user interface
 
-**Tech:** `Python` `Streamlit` `LLMs` `GPT-4` `Gemini` `RAG` `Googletrans`
+### Tech Stack
+
+`Python` `Streamlit` `GPT-4` `Gemini` `RAG` `Googletrans`
 
 ---
 
-# 💼 Experience
+## 🔎 EverydayJobs — Autonomous AI Job Intelligence & Screening Engine
+
+An autonomous job intelligence platform that extracts thousands of live jobs, deterministically filters irrelevant roles, uses LLMs for semantic screening, and generates tailored application material.
+
+🔗 **Repository:** https://github.com/snehithkumar18/Everydayjobs
+
+### What I built
+
+- 🌐 Multi-ATS ingestion from Greenhouse, Lever and Ashby
+- ⚡ Parallel extraction from 100+ career boards
+- 🎯 Deterministic title, seniority and location filtering
+- 🧠 Gemini / Claude / Groq semantic screening
+- 📝 Automated resume and cover-note generation
+- 💬 Technical interview question generation
+- 📧 Automated HTML email digests
+- 🗃️ SHA-256 job deduplication
+- 🔄 Exponential backoff and rate-limit handling
+- 🧩 Partial JSON recovery for truncated LLM responses
+- 🧪 70 automated tests with 100% passing
+- ☁️ GitHub Actions scheduled execution
+- 💾 Persistent state using cached `seen.json`
+
+### Pipeline
+
+```text
+9,000+ Live Jobs
+       ↓
+ATS Ingestion
+       ↓
+Deterministic Pre-Filtering
+       ↓
+Location + Seniority Gate
+       ↓
+SHA-256 Deduplication
+       ↓
+LLM Batch Screening
+       ↓
+High-Fit Jobs
+       ↓
+Resume + Cover Note + Interview Prep
+       ↓
+Email Digest
+```
+
+### Tech Stack
+
+`Python` `Gemini` `Claude` `Groq` `LLaMA` `REST APIs` `Requests` `Regex` `Jinja2` `SMTP` `JSON` `SHA-256` `Pytest` `GitHub Actions` `Windows Task Scheduler`
+
+---
+
+# 📚 Other Projects
+
+## 🤖 Personal AI Tools Platform
+
+A collection of AI-powered developer and productivity tools built around practical LLM workflows.
+
+### Technologies
+
+`Python` `Streamlit` `Hugging Face` `LLM APIs` `Prompt Engineering` `REST APIs`
+
+---
+
+## ✨ Prompt Enhancer / Prompt Optimization Tool
+
+An AI-powered Streamlit application designed to improve user prompts and transform vague instructions into structured, more effective prompts.
+
+### Technologies
+
+`Python` `Streamlit` `Hugging Face` `Prompt Engineering` `LLMs`
+
+---
+
+## 🎓 EduBud — AI Exam Preparation Assistant
+
+An AI-driven exam preparation assistant that helps students prepare for technical subjects through AI-generated learning support.
+
+### Technologies
+
+`Python` `Streamlit` `Hugging Face API` `Generative AI`
+
+---
+
+## 🍴 FOODMATE — Full-Stack Food Application
+
+A full-stack food application developed as a collaborative project, covering frontend workflows, backend integration and database-driven functionality.
+
+### Technologies
+
+`React` `JavaScript` `Node.js` `REST APIs` `SQL` `Database`
+
+---
+
+## 🚆 UI Railway Reservation System
+
+A software project focused on implementing railway reservation workflows and a user-facing reservation interface.
+
+### Technologies
+
+`Java` `OOP` `DBMS` `SQL` `UI Development`
+
+---
+
+## ⛓️ Blockchain-Powered Platform
+
+A blockchain-focused application exploring decentralized application concepts, transaction workflows and blockchain-backed data.
+
+### Technologies
+
+`Blockchain` `Web Development` `JavaScript` `APIs`
+
+---
+
+# 💼 Professional Experience
+
+## Software Engineering Expert — AfterQuery
+
+Worked on software-engineering benchmark development for evaluating advanced AI coding systems.
+
+### Project Silver
+
+- Authored and validated complex software-engineering code fixtures.
+- Designed containerized benchmark environments using Docker.
+- Built validation workflows and regression tests.
+- Debugged real-world multi-file repositories.
+- Worked with Python, TypeScript, SQL, Bash, FastAPI, Node.js, PostgreSQL, Redis and Docker.
+- Developed verification logic for image processing, real-time media, video rendering and API systems.
+
+### FenrirDB
+
+- Worked with an 8,000+ LOC C++17 embedded document-relational database engine.
+- Investigated storage, indexing, concurrency and memory-safety behavior.
+- Worked with B+ Trees, MVCC, lock management and slotted-page storage.
+- Used ASan, UBSan and libFuzzer for memory-safety testing.
+- Designed complex stateful benchmark scenarios for AI code-repair evaluation.
+
+---
+
+## AI Trainer & RL Evaluation Specialist — Alignerr
+
+Worked on reinforcement-learning and AI evaluation infrastructure for advanced model assessment.
+
+### Structural AI / RL Evaluation Benchmark
+
+- Developed deterministic RL evaluation workflows for structural engineering optimization.
+- Built OpenSeesPy-based non-linear dynamic simulation workflows.
+- Designed declarative rubric-based grading and hidden evaluation fixtures.
+- Worked with Docker, GitHub Actions, SHA-256 verification and isolated evaluation environments.
+- Built physics-grounded scoring and validation systems.
+- Worked with Python, Bash, JSON Schema, Docker and CI/CD workflows.
+
+---
 
 ## AI & Data Engineering Intern — Viswam.AI / IIIT Hyderabad
 
 Worked on AI application development and multilingual data engineering for Telugu Large Language Model development.
 
-- Built AI applications and backend services using **Python and FastAPI**.
+- Built backend applications and REST APIs using **Python and FastAPI**.
 - Developed AI applications using **Streamlit and Hugging Face**.
 - Worked with **LLM-based applications and RAG workflows**.
 - Contributed to multilingual text, audio and video data workflows.
@@ -380,96 +400,86 @@ Worked on AI application development and multilingual data engineering for Telug
 
 # 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 `Python` `Java` `JavaScript` `TypeScript` `SQL` `C++` `Bash`
 
-### 🤖 Generative AI
+## 🤖 Artificial Intelligence
 
-`Generative AI` `LLMs` `Agentic AI` `AI Agents` `Prompt Engineering` `RAG`
+`Generative AI` `Large Language Models` `Agentic AI` `AI Agents`
 
-`Tool Calling` `Multi-Agent Systems` `Multimodal AI` `Structured Outputs`
+`Prompt Engineering` `RAG` `Multimodal AI` `Model Evaluation`
 
-### 🔗 Agentic AI
+## 🔗 Agentic AI
 
 `LangGraph` `LangChain` `Stateful Workflows` `Conditional Routing`
 
-`Agent Memory` `Tool Integration` `Multi-Agent Orchestration`
+`Tool Calling` `Agent Memory` `Multi-Agent Orchestration` `Structured Outputs`
 
-### 🧠 AI / Machine Learning
+## 🧠 Machine Learning
 
-`PyTorch` `Deep Learning` `Model Inference` `Model Evaluation`
+`PyTorch` `Deep Learning` `Hugging Face` `Model Inference`
 
-`Hugging Face` `Computer Vision` `Image Processing`
+`Model Evaluation` `Computer Vision` `Image Processing`
 
-### 👁️ Computer Vision
+## 👁️ Computer Vision
 
 `OpenCV` `YOLOv8` `MobileNetV2` `ResNet50`
 
 `Segment Anything` `EasyOCR` `InsightFace` `GFPGAN` `Pillow`
 
-### ⚙️ Backend Engineering
+## ⚙️ Backend Development
 
 `FastAPI` `Flask` `Node.js` `Express.js`
 
 `REST APIs` `WebSockets` `SSE` `Async Processing`
 
-### 🎨 Frontend Engineering
+## 🎨 Frontend Development
 
-`React` `TypeScript` `JavaScript`
+`React` `TypeScript` `JavaScript` `HTML5` `CSS3`
 
-`HTML5` `CSS3` `Tailwind CSS` `React-Konva` `Vite`
+`Tailwind CSS` `React-Konva` `Vite`
 
-### 🗄️ Databases & Data
+## 🗄️ Databases & Data
 
 `PostgreSQL` `MySQL` `Supabase` `Redis`
 
-`ChromaDB` `Pandas` `NumPy` `SQL`
+`Pandas` `NumPy` `SQL` `ChromaDB`
 
-### ☁️ DevOps & Infrastructure
+## ☁️ DevOps & Developer Tools
 
-`Docker` `Git` `GitHub` `GitHub Actions`
+`Docker` `Git` `GitHub` `GitHub Actions` `Linux`
 
-`Linux` `CI/CD` `BullMQ` `Pytest` `Vitest`
+`CI/CD` `BullMQ` `Pytest` `Vitest` `VS Code`
 
 ---
 
-# 🏗️ Engineering Principles
+# 🎓 Certifications & Learning
 
-I try to approach AI engineering as a software engineering problem first.
+- Oracle Cloud Infrastructure Foundations Associate
+- Oracle Generative AI / AI learning certification
+- Google AI Agents Intensive Course
+- Microsoft & LinkedIn Career Essentials in Generative AI
+- Microsoft AI Innovators Hub — Agentic AI Workshop
+
+---
+
+# 🏗️ Engineering Interests
 
 ```text
-                    ┌──────────────────┐
-                    │   Real Problem   │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │ Workflow Analysis│
-                    └────────┬─────────┘
-                             ↓
-              ┌─────────────────────────────┐
-              │   Simplest Useful System   │
-              └──────────────┬──────────────┘
-                             ↓
-          ┌────────────────────────────────────┐
-          │ AI / LLM / Agent / ML Model        │
-          └────────────────┬───────────────────┘
-                           ↓
-              ┌─────────────────────────┐
-              │ APIs + Tools + Data     │
-              └────────────┬────────────┘
-                           ↓
-              ┌─────────────────────────┐
-              │ Backend + Infrastructure│
-              └────────────┬────────────┘
-                           ↓
-              ┌─────────────────────────┐
-              │ Testing + Reliability   │
-              └────────────┬────────────┘
-                           ↓
-              ┌─────────────────────────┐
-              │ Production Deployment   │
-              └─────────────────────────┘
+AI Engineering
+     ↓
+Generative AI → LLM Applications → AI Agents
+     ↓
+RAG → Multimodal AI → Computer Vision
+     ↓
+Backend Systems → APIs → Databases
+     ↓
+Automation → Developer Tools → Intelligent Workflows
+     ↓
+Testing → Reliability → CI/CD
+     ↓
+Production AI Products
 ```
 
 ---
@@ -482,12 +492,13 @@ I try to approach AI engineering as a software engineering problem first.
 - Retrieval-Augmented Generation
 - Multimodal AI
 - AI-powered automation
-- AI evaluation
 - Computer Vision
 - AI developer tools
 - Intelligent enterprise workflows
 - Production AI infrastructure
-- Distributed backend systems
+- Backend systems
+- Distributed systems
+- AI evaluation and benchmarking
 
 ---
 
@@ -515,6 +526,7 @@ I'm interested in collaborating on:
 - Backend systems
 - Developer tools
 - Open-source projects
+- Production AI infrastructure
 
 <div align="center">
 
