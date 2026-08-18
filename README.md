@@ -1,222 +1,201 @@
-# GitHub README
+<!-- ===================== HEADER / BANNER ===================== -->
 
-> **Note:** Due to response-length limits, this file contains a complete
-> starter README based on the provided resume and links, ready for
-> further customization.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Snehith%20Kumar&fontSize=65&fontColor=ffffff&animation=twinkling&desc=AI%20Engineering%20%7C%20GenAI%20%7C%20Full-Stack%20%7C%20Computer%20Vision&descAlignY=70" width="100%" />
+</div>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,7F5AF0,4F46E5&height=220&section=header&text=Snehith%20Kumar&fontSize=42&fontColor=ffffff"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;AI+Engineer;Full+Stack+Developer"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-![](https://img.shields.io/badge/B.E-CSE-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.13-7F5AF0?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Hyderabad-blueviolet?style=for-the-badge)
+<!-- ===================== SOCIALS ===================== -->
 
-```{=html}
-</p>
-```
-## About Me
+<div align="center">
 
-Software Engineer specializing in Java, Python, backend engineering,
-REST APIs, FastAPI, React, Docker, PostgreSQL and AI-powered
-applications.
+<a href="https://github.com/snehithkumar18">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
--   Open to Software Engineering, Backend Engineering and AI roles
--   Internship: Viswam.AI, IIIT Hyderabad
--   150+ LeetCode problems solved
+<a href="https://www.linkedin.com/in/snehith-kumar-4266071b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-------------------------------------------------------------------------
+<a href="mailto:snehithkumarbarkam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-# Tech Stack
+<br /><br />
 
-Java • Python • JavaScript • TypeScript • React • FastAPI • Node.js •
-Express • PostgreSQL • MySQL • Redis • Docker • Git
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%F0%9F%A4%96;Generative+AI+Developer+%F0%9F%A7%A0;Full-Stack+Software+Engineer+%F0%9F%9A%80;Computer+Vision+Builder+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%F0%9F%94%A7;Building+AI-Powered+Products+%F0%9F%92%A1" />
 
-------------------------------------------------------------------------
+</div>
 
-# AI / ML Expertise
+---
 
-  Domain               Level          Details
-  -------------------- -------------- ------------------------
-  Generative AI        Advanced       AI powered apps
-  Computer Vision      Intermediate   Crop disease detection
-  Backend AI Systems   Advanced       FastAPI REST APIs
+# 👋 About Me
 
-------------------------------------------------------------------------
+I'm **Snehith Kumar**, a Computer Science engineer interested in building practical software at the intersection of **Artificial Intelligence and Software Engineering**.
 
-# Featured Projects
+I enjoy taking an idea from a problem statement to a working product — designing the architecture, building APIs, integrating AI models, connecting databases, testing the system, and deploying the final application.
 
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}ThumbAI`</b>`{=html}
-```{=html}
-</summary>
-```
-AI Powered Thumbnail Editor
+My strongest areas are **Python, AI/ML, Generative AI, Computer Vision, backend development, and full-stack engineering**.
 
-Repository: https://github.com/snehithkumar18/thumbnail-genius
+- 🤖 Building applications with **Generative AI, LLMs, AI Agents and Computer Vision**
+- 🧠 Working with **PyTorch, YOLOv8, OpenCV, LLM APIs and RAG**
+- ⚙️ Building backend systems using **Python, FastAPI, Flask, Node.js and Express**
+- 🌐 Developing full-stack applications with **React, TypeScript and JavaScript**
+- 🗄️ Working with **PostgreSQL, MySQL, Supabase and Redis**
+- 🐳 Using **Docker, Git, GitHub and Linux** for development and deployment
+- 🔍 Interested in **AI engineering, intelligent automation, developer tools and production AI systems**
+- 💡 I enjoy learning unfamiliar technologies by building real projects with them
 
-Live: https://thumb-ly.vercel.app/
+---
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}Crop Disease Detection Agent`</b>`{=html}
-```{=html}
-</summary>
-```
-Repository:
+# 🚀 What I Build
 
-https://github.com/snehithkumar18/Aiplantagent
+I focus on building software where AI is part of the actual product rather than simply adding an API call.
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}QRAVE`</b>`{=html}
-```{=html}
-</summary>
-```
-Repository:
+My projects combine **AI models, backend systems, databases, APIs, computer vision and modern web interfaces** to solve practical problems.
 
-https://github.com/Somesh2504/Qato
+---
 
-Live:
+# 🧠 Featured Projects
 
-https://qravee.me/
+## 🎨 ThumbAI — AI-Powered Thumbnail Editing Platform
 
-```{=html}
-</details>
-```
+An AI-powered design platform that helps creators analyze, edit and optimize YouTube thumbnails.
 
-------------------------------------------------------------------------
+### What I built
 
-# Experience
+- 🖼️ AI-assisted image editing and generation
+- 👁️ Computer vision pipelines using YOLOv8 and SAM
+- 🔎 OCR using EasyOCR
+- 🎭 Face processing using InsightFace and GFPGAN
+- 🧩 Interactive WYSIWYG editing using React-Konva
+- ⚡ Background processing using BullMQ and Redis
+- 🧠 Multimodal AI using Gemini and LLaMA
+- 🐳 Dockerized Python ML services
+- 🗄️ PostgreSQL and Supabase-backed application architecture
 
-**AI & Data Engineering Intern --- Viswam.AI (IIIT Hyderabad)**
+### Tech Stack
 
--   AI applications
--   Automation
--   Agile
--   Testing
--   Documentation
+`React` `TypeScript` `FastAPI` `Python` `PyTorch` `OpenCV` `YOLOv8` `SAM` `EasyOCR` `InsightFace` `Redis` `BullMQ` `PostgreSQL` `Supabase` `Docker`
 
-------------------------------------------------------------------------
+🔗 **Live:** https://thumb-ly.vercel.app/
 
-# Certifications
+---
 
--   Career Essentials in Generative AI
--   Agentic AI Workshop
--   Power BI
--   Python Programming
--   RDBMS
+## 🍽️ QRAVE — Smart Contactless Ordering & POS Platform
 
-------------------------------------------------------------------------
+A production-oriented restaurant ordering platform connecting customers, restaurant staff and kitchen operations through a real-time ordering system.
 
-# Coding Profiles
+### What I built
 
--   GitHub: https://github.com/snehithkumar18
--   LinkedIn: https://linkedin.com/in/snehith-kumar-4266071b8/
--   LeetCode: https://leetcode.com/u/snehith18/
+- 📱 QR-based digital restaurant menus
+- 🛒 Customer ordering workflows
+- 🧾 Restaurant and kitchen management
+- 💳 Razorpay payment integration
+- 🔐 JWT authentication and secure webhook verification
+- ⚡ Real-time order synchronization using Supabase
+- 🚦 API rate limiting and request control
+- 🗄️ PostgreSQL relational data architecture
+- 🔄 REST APIs using Node.js and Express
+- 📊 Live kitchen order queues and display workflows
 
-------------------------------------------------------------------------
+### Tech Stack
 
-# GitHub Analytics
+`React` `JavaScript` `Node.js` `Express.js` `PostgreSQL` `Supabase` `REST APIs` `Razorpay` `JWT` `Tailwind CSS`
 
-![](https://github-readme-stats.vercel.app/api?username=snehithkumar18&show_icons=true&theme=tokyonight)
+🔗 **Live:** https://qravee.me/
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=snehithkumar18&theme=tokyonight)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snehithkumar18&layout=compact&theme=tokyonight)
+## 🌱 AI Crop Doctor — Multimodal Agricultural AI
 
-------------------------------------------------------------------------
+A multimodal AI platform that diagnoses crop diseases from images and generates localized treatment recommendations.
 
-# Trophies
+### What I built
 
-![](https://github-profile-trophy.vercel.app/?username=snehithkumar18&theme=tokyonight)
+- 🌿 Crop disease classification across multiple disease classes
+- 👁️ YOLOv8-based plant detection
+- 🧠 PyTorch-based disease classification
+- 🔬 OpenCV image preprocessing
+- 🤖 LLaMA-based AI reasoning through GROQ
+- 🌦️ Real-time weather integration
+- 🌍 Multilingual recommendations
+- 🔊 Text-to-speech assistance
+- 📍 Browser geolocation integration
+- 🛡️ Fallback handling for reliable AI workflows
 
-------------------------------------------------------------------------
+### Tech Stack
 
-# Activity Graph
+`Python` `PyTorch` `YOLOv8` `MobileNetV2` `ResNet50` `OpenCV` `Flask` `GROQ` `LLaMA` `Pandas` `NumPy` `gTTS`
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=snehithkumar18&theme=tokyo-night)
+🔗 **GitHub:** https://github.com/snehithkumar18
 
-------------------------------------------------------------------------
+---
 
-# Snake
+# 💼 Experience
 
-``` text
-Use Platane/snk GitHub Action to generate snake.svg
-```
+## AI & Data Engineering Intern — Viswam.AI, IIIT Hyderabad
 
-------------------------------------------------------------------------
+Worked on AI application development and multilingual data engineering for Telugu Large Language Model development.
 
-# Current Focus
+### Experience
 
-``` yaml
-Learning:
-  - System Design
-  - Distributed Systems
+- Built backend applications using **Python and FastAPI**
+- Developed AI applications using **Streamlit and Hugging Face**
+- Worked with **LLM-based applications and RAG workflows**
+- Contributed to multilingual text, audio and video data collection
+- Performed data validation and quality checks
+- Worked on debugging, testing and deployment
+- Collaborated in an AI-focused engineering environment
 
-Building:
-  - AI Applications
-  - Backend Services
+---
 
-Exploring:
-  - LLM Engineering
-  - Cloud
+# 🛠️ Technical Skills
 
-Open To:
-  - Software Engineer
-  - Backend Engineer
-  - AI Engineer
-```
+## 👨‍💻 Programming Languages
 
-------------------------------------------------------------------------
+`Python` `Java` `JavaScript` `TypeScript` `SQL` `C++` `Bash`
 
-# Connect
+## 🤖 Artificial Intelligence
 
--   Email: snehithkumarbarkam@gmail.com
--   GitHub: https://github.com/snehithkumar18
--   LinkedIn: https://linkedin.com/in/snehith-kumar-4266071b8/
+`Generative AI` `Large Language Models` `Agentic AI` `AI Agents` `Prompt Engineering` `RAG` `Multimodal AI` `AI Application Development`
 
-------------------------------------------------------------------------
+## 🧠 Machine Learning
 
-> "Building reliable software with clean architecture and scalable
-> engineering."
+`PyTorch` `Computer Vision` `Deep Learning` `Model Inference` `Image Processing` `Model Evaluation`
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,7F5AF0,4F46E5&height=120&section=footer"/>`{=html}
-```{=html}
-</p>
-```
+## 👁️ Computer Vision
+
+`OpenCV` `YOLOv8` `MobileNetV2` `ResNet50` `Segment Anything` `EasyOCR` `InsightFace` `GFPGAN` `Pillow`
+
+## ⚙️ Backend Development
+
+`FastAPI` `Flask` `Node.js` `Express.js` `REST APIs`
+
+## 🎨 Frontend Development
+
+`React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `React-Konva`
+
+## 🗄️ Databases & Data
+
+`PostgreSQL` `MySQL` `Supabase` `Redis` `SQL` `Pandas` `NumPy`
+
+## ☁️ DevOps & Developer Tools
+
+`Docker` `Git` `GitHub` `Linux` `GitHub Actions` `BullMQ` `Pytest` `VS Code`
+
+---
+
+# 🏗️ Engineering Interests
+
+```text
+AI Engineering
+     ↓
+Generative AI → LLM Applications → AI Agents
+     ↓
+Computer Vision → Multimodal AI
+     ↓
+Backend Systems → APIs → Databases
+     ↓
+Full-Stack Applications
+     ↓
+Production AI Products
